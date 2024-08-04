@@ -11,7 +11,7 @@
 }
 
  .header{
-    background-image: url("slide.jpg");
+    background-image: url("images/slide.jpg");
     background-repeat: no-repeat;
     background-size: 1500px;
     height: 70vh;
@@ -74,9 +74,9 @@
 
 .logo1{
    position: relative;
-   bottom: 120px;
-   left: 700px;
-   width: 90px;
+   bottom: 90px;
+   left: 648px;
+   width: 60px;
    margin: 7px;
    
 }
@@ -84,7 +84,7 @@
 
 .navbar2 .slide1  {
    position: relative;
-   left: 310px;
+   left: 180px;
    bottom: 30px;
    
 }
@@ -106,8 +106,8 @@
     border: 1px solid coral;
     background-color: #e67e22;
     position: relative;
-    left: 450px;
-    bottom: 145px;
+    left: 375px;
+    bottom: 125px;
    
  }
  .navbar2 .lien2 a{
@@ -117,8 +117,8 @@
     border: 1px solid coral;
     background-color: #e67e22;
     position: relative;
-    left: 450px;
-    bottom: 140px;
+    left: 375px;
+    bottom: 125px;
    
  }
  .navbar2 .lien2 a:hover{
@@ -129,7 +129,7 @@
  }
 
  .content{
-   background-image: url("bg-content.jpg");
+   background-image: url("images/bg-content.jpg");
    background-repeat: no-repeat;
    position: relative;
    bottom: 80px;
@@ -158,7 +158,6 @@
     bottom: 60px;
     top: 15px;
     color: #e67e22;
-    /* font-family: 'Tangerine', cursive; */
     font-size: 30px;
     font-family:  Brush Script MT, Brush Script Std ,cursive;
     
@@ -185,9 +184,9 @@
    border-color:white;
    inline-size: 85px;
    position: relative;
-   left:830px;
+   left:850px;
    top: 73px;
-   right: 50px;
+   right: 80px;
    border-color: #f5f0ec;
   
 
@@ -196,15 +195,16 @@
  .hr{
    inline-size: 80px;
    position: relative;
-   left: 600px;
-   top: 45px;
+   left: 460px;
+   top: 49px;
  }
  .content .welcome .hr2{
    inline-size: 800px;
    position: relative;
-   top: 35px;
-   left: 3px;
-   margin-left: 340px;
+   top: 45px;
+   left: 20px;
+   margin-left: 290px;
+   margin-right: 200px;
  }
 
  
@@ -238,7 +238,7 @@
  .box  hr{
    inline-size: 256px;
    position: relative;
-   left: 23px;
+   left: 7px;
    bottom: 30px;
    border-color: #f8f1df;
  }
@@ -268,7 +268,7 @@
 }
 
  .main .Galerie{
-   background-image: url("bg-galerie.jpg");
+   background-image: url("images/bg-galerie.jpg");
    text-align: center;
    width: 100%;
    height: 250px;
@@ -286,7 +286,7 @@
 .main .Galerie .img-holder{
    display: inline-block;
    margin-top: 45px;
-   margin-left: 30px;
+   margin-left: 80px;
    margin-right: 80px;
 }
 
@@ -357,7 +357,7 @@
 .main .next{
    position: relative;
    bottom:80px;
-   right: 150px;
+   right: 140px;
 }
 .main .next:hover{
      background-color: #151414;
